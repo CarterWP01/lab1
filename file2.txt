@@ -1,5 +1,5 @@
 HTTP/1.1 200 OK
-Date: Mon, 11 Sep 2023 23:32:52 GMT
+Date: Tue, 12 Sep 2023 00:34:17 GMT
 Server: Apache/2.4.6 (CentOS)
 Connection: close
 Transfer-Encoding: chunked
@@ -37,7 +37,7 @@ Content-Type: text/html; charset=UTF-8
 <DT> PATH <DD> /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin
 <DT> QUERY_STRING <DD> 
 <DT> REMOTE_ADDR <DD> 142.244.5.85
-<DT> REMOTE_PORT <DD> 56092
+<DT> REMOTE_PORT <DD> 53846
 <DT> REQUEST_METHOD <DD> POST
 <DT> REQUEST_SCHEME <DD> https
 <DT> REQUEST_URI <DD> /~hindle1/1.py
@@ -52,7 +52,7 @@ Content-Type: text/html; charset=UTF-8
 
 <DT> SERVER_SOFTWARE <DD> Apache/2.4.6 (CentOS)
 <DT> SSL_TLS_SNI <DD> webdocs.cs.ualberta.ca
-<DT> UNIQUE_ID <DD> ZP@jpLzExF62bWrKPesRiQAAAAk
+<DT> UNIQUE_ID <DD> ZP@yCRNXFeD@gJdEVy4aIgAAABc
 </DL>
 
 
@@ -141,7 +141,7 @@ environment as well.  Here are some common variable names:
 <DT> PATH <DD> /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin
 <DT> QUERY_STRING <DD> 
 <DT> REMOTE_ADDR <DD> 142.244.5.85
-<DT> REMOTE_PORT <DD> 56092
+<DT> REMOTE_PORT <DD> 53846
 <DT> REQUEST_METHOD <DD> POST
 <DT> REQUEST_SCHEME <DD> https
 <DT> REQUEST_URI <DD> /~hindle1/1.py
@@ -156,6 +156,6 @@ environment as well.  Here are some common variable names:
 
 <DT> SERVER_SOFTWARE <DD> Apache/2.4.6 (CentOS)
 <DT> SSL_TLS_SNI <DD> webdocs.cs.ualberta.ca
-<DT> UNIQUE_ID <DD> ZP@jpLzExF62bWrKPesRiQAAAAk
+<DT> UNIQUE_ID <DD> ZP@yCRNXFeD@gJdEVy4aIgAAABc
 </DL>
 
