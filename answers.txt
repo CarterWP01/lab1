@@ -5,3 +5,4 @@ google it
 5.status code 301,  https://www.google.com
 301 --->>> 418 
 1 makes a request (get), the other one posts(?)
+https://raw.githubusercontent.com/CarterWP01/lab1/main/script.py
